@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EtherBank.sol": "IBank"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EtherBank.sol": {
+			"keccak256": "0x2c0d6b8fc5cf49ffa34c57cbf098e6b2b7371a7a93413fa65a9a987eda20717e",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a412adff3cb6d7633da8d7f41e31ef4aef2237b284b111f9c1e8653d3bfcdf4c",
+				"dweb:/ipfs/QmT4U9yx5PRfLcvG3i36kmnquKNpmqu5Ba73pQstm99cLd"
+			]
+		}
+	},
+	"version": 1
+}

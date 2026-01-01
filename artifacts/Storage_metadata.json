@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EtherBank.sol": "Storage"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EtherBank.sol": {
+			"keccak256": "0xd32f33daaf916fa5f7ea667812ed6d0f4d0a6209e97c334f5cbc0aab213a25e8",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e9d7ffb0e5c7a7713995a619538a77e2193df2c2cb88726fd3d36419c91dd1c0",
+				"dweb:/ipfs/QmdNE8tAyuXb9YXerkA1D2mimL8WpsBdQm6ank2zwa3VKi"
+			]
+		}
+	},
+	"version": 1
+}

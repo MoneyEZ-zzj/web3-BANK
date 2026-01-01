@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "_bool",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"02-值类型.sol": "ZZJ"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"02-值类型.sol": {
+			"keccak256": "0xf76b8d729485137cbfd047809b57a46bfedb902cb806d89ecf6955bb75ab5754",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://81d1338588afd1a88b42233425e9a693494fc78273aa9a3e9f486f03a2de4e2a",
+				"dweb:/ipfs/QmbNiakEXb1FHwfuPpS6KehcvACBzacAttcEzGuWeiRsCQ"
+			]
+		}
+	},
+	"version": 1
+}
